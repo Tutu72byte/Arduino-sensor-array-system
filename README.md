@@ -52,3 +52,4 @@ The printed circuit board (PCB) was routed following standard practices such as:
   * I2C communication protocol for the LCD output display
   * Fine control of the servo motor (Which moves the ultrasound sensor to cover ~170deg FOV) via PWM
 * **Status Indication:** 3 status LEDs (`LED1 - RED`, `LED2 - YELLOW`, `LED3 - GREEN`).
+* **JSON compatibility** for **serial data transfer** between the device and a web server allowing **long distance monitoring** of the system
