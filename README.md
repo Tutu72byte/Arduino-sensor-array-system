@@ -38,7 +38,7 @@ The printed circuit board (PCB) was routed following standard practices such as:
 * **2-Layer Stackup Strategy:**
   * **Layer 1a (Top):** Primary component placement, high-speed signals and larger power traces
   * **Layer 1b (Ground Plane):** A solid, continuous ground plane (`GND`) ensuring a low-impedance return path for high-speed signals and effective electromagnetic shielding (EMI).
-  * **Layer 4 (Bottom):** Secondary routing layer.
+  * **Layer 2 (Bottom):** Secondary routing layer.
 
 * **Component Placement:** 
   * The length of all copper paths was tuned to ensure minimum impedance (For power traces) and overall cost effectiveness.
